@@ -1,0 +1,2 @@
+# allowascrapy
+scrapy project
